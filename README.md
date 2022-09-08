@@ -1,6 +1,3 @@
-# Video tutorial
-
-    https://youtu.be/eLaOmy55pS8
 
 # Reference
 
